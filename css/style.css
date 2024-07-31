@@ -8,20 +8,7 @@ body {
   background-color: #f4d04e;
 }
 
-.container,
-div,
-.authorInfo {
-  display: flex;
-}
-
-.container,
-div {
-  display: flex;
-  flex-direction: column;
-}
-
 .container {
-  row-gap: 24px;
   width: 388px;
   background-color: white;
   border-radius: 20px;
@@ -30,18 +17,22 @@ div {
   box-shadow: 8px 8px black;
 }
 
-div {
-  row-gap: 12px;
+#illustration {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 10px;
+  margin-bottom: 24px;
 }
 
 .authorInfo {
-  flex-direction: row;
+  display: flex;
   align-items: center;
   column-gap: 12px;
+  margin-top: 24px;
 }
 
-#illustration {
-  border-radius: 10px;
+.authorInfo h3 {
+  margin: 0;
 }
 
 #avatar {
@@ -55,6 +46,13 @@ p,
 span {
   font-family: Figtree, sans-serif;
   line-height: 150%;
+}
+
+h1,
+h2,
+h3,
+span {
+  margin-bottom: 12px;
 }
 
 h1 {
@@ -102,6 +100,6 @@ h1:hover {
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 327px;
+    width: 300px;
   }
 }

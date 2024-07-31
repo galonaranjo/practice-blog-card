@@ -90,6 +90,10 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
+span {
+  display: inline-block;
+}
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
