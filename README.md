@@ -26,8 +26,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/galonaranjo/practice-blog-card)
+- Live Site URL: [Add live site URL here](https://practice-blog-card.vercel.app/)
 
 ### Built with
 
@@ -45,6 +45,6 @@ I want to continue learning and refining my layout skills. Right now I rely most
 
 ## Author
 
-- Website - [Galo Naranjo](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Galo Naranjo](https://github.com/galonaranjo)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/galonaranjo)
 - Twitter - [@yourusername](https://www.twitter.com/galonaranjo_)
