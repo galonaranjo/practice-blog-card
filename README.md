@@ -26,8 +26,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/galonaranjo/practice-blog-card)
-- Live Site URL: [Add live site URL here](https://practice-blog-card.vercel.app/)
+- Solution URL: [GitHub](https://github.com/galonaranjo/practice-blog-card)
+- Live Site URL: [Vercel](https://practice-blog-card.vercel.app/)
 
 ### Built with
 
