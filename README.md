@@ -46,5 +46,5 @@ I want to continue learning and refining my layout skills. Right now I rely most
 ## Author
 
 - Website - [Galo Naranjo](https://github.com/galonaranjo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/galonaranjo)
-- Twitter - [@yourusername](https://www.twitter.com/galonaranjo_)
+- Frontend Mentor - [@galonaranjo](https://www.frontendmentor.io/profile/galonaranjo)
+- Twitter - [@galonaranjo\_](https://www.twitter.com/galonaranjo_)
